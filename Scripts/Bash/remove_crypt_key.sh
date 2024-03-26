@@ -2,4 +2,4 @@
 
 # Remove the Cryptkey
 
-cryptsetup luksRemoveKey /dev/nvme0n1p3
+ sudo cryptsetup luksRemoveKey /dev/nvme0n1p3
